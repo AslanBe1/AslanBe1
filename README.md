@@ -5,8 +5,8 @@ I am a dedicated Python developer with a passion for creating innovative and eff
 -  🌱 I'm currently learning HTML
 -  📫 How to reach me: [aslanabdimuminov31@gmail.com](mailto:your-email@example.com)
    ## 🛠 Languages and Tools:
-   ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-   ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
-   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
-   ![Css](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-   ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+   ![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
+   ![Django](https://img.shields.io/badge/Django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
+   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+   ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://html.com/)
