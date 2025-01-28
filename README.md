@@ -11,7 +11,7 @@ I am a dedicated Python developer with a passion for creating innovative and eff
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50"/>
   </a>
  <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://images.augustman.com/wp-content/uploads/sites/6/2022/10/21043622/alexander-shatov-71qk8odibko-unsplash.jpeg" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="50" height="50"/>
   </a>
 </a>
 </p>
