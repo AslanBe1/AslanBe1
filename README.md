@@ -55,5 +55,4 @@ I am a dedicated Python developer with a passion for creating innovative and eff
 </p>
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AslanBe1&layout=compact)<br>
-![Aslans GitHub Stats](https://github-readme-stats.vercel.app/apiusername=AslanBe1&show_icons=true&count_private=true)
-
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AslanBe1&layout=compact)
