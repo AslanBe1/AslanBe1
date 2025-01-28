@@ -11,7 +11,7 @@ I am a dedicated Python developer with a passion for creating innovative and eff
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50"/>
   </a>
   <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme generator/master/src/images/icons/Social/instagram.svg" width="50" height="50"/>
+    <img src="https://www.internetmatters.org/wp-content/uploads/2020/01/instagradientlogo-no-background.png" width="50" height="50"/>
   </a>
   <a href="https://medium.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" width="50" height="50"/>
