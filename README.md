@@ -1,16 +1,12 @@
-## Hi there 👋
+##HI 👋, I'm Aslan Abdimominov
 
-<!--
-**AslanBe1/AslanBe1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a dedicated Python developer with a passion for creating innovative and efficient solutions. My expertise lies in writing clean and maintainable code, and I enjoy contributing to open-source projects. Constantly exploring new technologies and enhancing my skills, I aim to solve real-world problems through impactful software development. Let's build something great together!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  🌱 I'm currently learning HTML
+-  📫 How to reach me: [aslanabdimuminov31@gmail.com](mailto:your-email@example.com)
+   ## 🛠 Languages and Tools:
+   ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+   ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
+   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+   ![Css](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+   ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
