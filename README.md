@@ -10,9 +10,9 @@ I am a dedicated Python developer with a passion for creating innovative and eff
   <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50"/>
   </a>
-  <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://cdn.shopify.com/s/files/1/0070/7032/files/image6_d3ee7b32-ee19-4a76-8462-a4ccd0365cae.jpg?v=1668458465" width="50" height="50"/>
-  </a>
+ <a href="https://www.instagram.com/" target="_blank">
+        <img src="https://cdn.shopify.com/s/files/1/0070/7032/files/image6_d3ee7b32-ee19-4a76-8462-a4ccd0365cae.jpg?v=1668458465" width="50" height="50" style="border-radius: 50%;"/>
+</a>
 </p>
 
 ## Languages and Tools:
