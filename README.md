@@ -1,4 +1,4 @@
-   ##                                                                                    Hi 👋, I'm Aslan Abdimominov
+   ##         <body>                                                                           Hi 👋, I'm Aslan Abdimominov </body>
 
 I am a dedicated Python developer with a passion for creating innovative and efficient solutions. My expertise lies in writing clean and maintainable code, and I enjoy contributing to open-source projects. Constantly exploring new technologies and enhancing my skills, I aim to solve real-world problems through impactful software development. Let's build something great together!
 
@@ -10,7 +10,7 @@ I am a dedicated Python developer with a passion for creating innovative and eff
   <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
- <a href="https://www.instagram.com/" target="_blank">
+ <a href="https://www.instagram.com/aslanbekofficial/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" height="40"/>
   </a>
 </a>
