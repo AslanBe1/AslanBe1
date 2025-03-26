@@ -2,7 +2,7 @@
 
 <body align="center"><strong>I am a dedicated Python developer with a passion for creating innovative and efficient solutions. My expertise lies in writing clean and maintainable code, and I enjoy contributing to open-source projects. Constantly exploring new technologies and enhancing my skills, I aim to solve real-world problems through impactful software development. Let's build something great together!</strong></body>
 <br>
-![Profile views](https://komarev.com/ghpvc/?username=AslanBe1&color=blue&style=flat)
+[![Profile views](https://komarev.com/ghpvc/?username=AslanBe1&color=blue&style=flat)](https://github.com/AslanBe1)
 <br>
 -  🌱 I'm currently learning HTML
 -  📫 How to reach me: [aslanabdimuminov31@gmail.com](mailto:your-email@example.com)
